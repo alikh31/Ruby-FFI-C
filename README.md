@@ -10,4 +10,6 @@ This is a demonstration of connecting C compiled dlls with ruby using ruby-ffi
 
 - install ffi `$ gem install ffi`
 
+- redirect into `ruby` directory `$ cd .\ruby`
+
 - run ruby test `$ .\test.rb`
